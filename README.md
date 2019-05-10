@@ -1,3 +1,0 @@
-# wda
-
-moja zmena
